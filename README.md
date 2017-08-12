@@ -1,6 +1,9 @@
 # Analysis of Twitter Sentiments on Quality of Education Provided in Indian Schools
 In This we have taken Out Live data from twitter Website and we have tried to analyse on different aspects of education hashtags . We have considered various hashtags and famous trends from them categorise each comment as Positive, Negative and Neutral , via this we have plot pie - charts each of these sections
 
+# Refer To this Document for the results of this Analysis
+https://goo.gl/hX2mhL
+
 # Working & All the Related Datasets and Codes:
 
 In this to take out data from twitter we wrote code in python which is written in analyse.py after executing this file an excel sheet would be formed , After every tweet there would be a categorisation weather this tweet is positive or negative 
