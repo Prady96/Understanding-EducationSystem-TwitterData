@@ -45,4 +45,3 @@ For eg.
 ```
 (venv) $ ./analyse.py "obama" obama.csv --threshold 0 --limit 5 
 ```
-# Understanding-EducationSystem-TwitterData
