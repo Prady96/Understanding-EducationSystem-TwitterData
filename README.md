@@ -1,5 +1,4 @@
-# Understanding-EducationSystem-Twitter-Sentiment
-
+# twitter-sentiment
 A command line utility to analyse twitter sentiment for any given topic and writes output to a CSV file.
 
 ## Installing
@@ -24,4 +23,4 @@ For eg.
 ```
 (venv) $ ./analyse.py "obama" obama.csv --threshold 0 --limit 5 
 ```
-
+# Understanding-EducationSystem-TwitterData
