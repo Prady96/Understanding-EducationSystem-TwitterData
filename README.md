@@ -31,9 +31,9 @@ A command line utility to analyse twitter sentiment for any given topic and writ
 
 ## Installing
 ```
-$ virtualenv venv
-$ source venv/bin/activate
-(venv) $ pip install -r requirements.txt
+$ virtualenv myvenv
+$ source myvenv/bin/activate
+(myvenv) $ pip install -r requirements.txt
 ```
 create a `.env` file and with the following contents
 ```
@@ -45,9 +45,9 @@ ACCESS_TOKEN_SECRET=<access token secret here>
 
 ## Running
 ```
-(venv) $ ./analyse.py [query] [outfile] --threshold [threshold] --limit [limit]
+(myvenv) $ ./analyse.py [query] [outfile] --threshold [threshold] --limit [limit]
 ```
 For eg.
 ```
-(venv) $ ./analyse.py "obama" obama.csv --threshold 0 --limit 5 
+(myvenv) $ ./analyse.py "Education" Edu.csv --threshold 0 --limit 5 
 ```
